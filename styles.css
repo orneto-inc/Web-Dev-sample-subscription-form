@@ -1,0 +1,61 @@
+/*----- All Properties are Arranged in Alphabetical Order -----*/
+
+body{
+    background-color: #d3dbff;
+    display: flex;
+    padding: 100px 150px 100px 150px;
+    box-shadow: rgba(240, 158, 158, 0.2);
+}
+
+.form-pane{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background-color: #f4f6ff;
+    box-shadow: rgba(96, 133, 119, 0.5);
+    border-radius: 0 10px 10px 0;
+    display: flex;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    height: 450px;
+    padding: 25px 0 0 20px; 
+    width: 50%;   
+}
+
+
+h3{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Galada, cursive;
+    text-align: justify;
+}
+
+.info-desc{
+    padding:20px 30px 10px 10px;
+    text-align: inherit;
+}
+
+.side-info{
+    background-color: #1b6ca8;
+    box-shadow: rgba(96, 133, 119, 0.5);
+    border-radius: 10px 0 0 10px;
+    display: flexbox;
+    flex: 50%;
+    float: left;
+    height: 450px;
+    padding: 25px 0 0 20px;
+    width: 50%;
+}
+    
+.submit{
+    background-color: #1b6ca8;
+    border-radius: 7px 0 7px 0;
+    font-size: justify;
+    font-family: fantasy;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+}
+
+
