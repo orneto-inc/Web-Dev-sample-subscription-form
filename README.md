@@ -1,9 +1,16 @@
-# Web-Dev-sample-subscription-form
-
-This a sample subscription-form for any website.
-Free for personal uses.
+DESCRIPTION:
+	-Sample subscription page for a website
 
 
+TECHNOLOGY & TOOLS USED:
+	-HTML
+	-CSS
+	-git
+	-gitHub
+	-VSCode
 
-For any suggestons or feed back contact: orneto11@gmail.com
-Thank You.
+
+CONTACT:
+For any feedback & suggestions,
+mail me: orneto11@gmail.com
+
