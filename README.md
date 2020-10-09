@@ -8,6 +8,8 @@ TECHNOLOGY & TOOLS USED:
 	-git
 	-gitHub
 	-VSCode
+	
+Resorces: 
 
 
 CONTACT:
